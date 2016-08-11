@@ -1,2 +1,2 @@
 some nonsense words.
-It will be a conflict.
+There will be a conflict.
